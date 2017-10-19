@@ -1,3 +1,4 @@
 # fluentd-elasticsearch
 
-* `1.22`, `latest`
+* `v2.0.1`, `latest`
+* `1.22`
