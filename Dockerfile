@@ -1,4 +1,4 @@
 #For don't connect to gcr.io in china.
-FROM gcr.io/google_containers/fluentd-elasticsearch:v2.0.4
+FROM k8s.gcr.io/fluentd-elasticsearch:v2.2.0
 
 LABEL maintainer="siriuszg <zhigang52110@sina.com>"
